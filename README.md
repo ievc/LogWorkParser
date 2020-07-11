@@ -1,3 +1,3 @@
 #LogWorkParser
 
-This changes was added from windows
+Some changes that was resolved.
